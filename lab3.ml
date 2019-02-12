@@ -43,7 +43,7 @@ expression.
 ......................................................................*)
 
 let add_point_pair (p1 : point_pair) (p2 : point_pair) : point_pair =
-  failwith "add{_point_pair not impemented" ;;
+  failwith "add_point_pair not impemented" ;;
 
 (* Analogously, we can define a point by using a record to package up
 the x and y coordinates. *)
